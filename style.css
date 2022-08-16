@@ -3,6 +3,7 @@ body{
    background: rgb(23,17,17);
    margin: 0px;
    font-family: 'Poppins',sans;
+   max-width:1440px;
 }
 ul{
    list-style:none;
